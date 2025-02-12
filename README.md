@@ -23,7 +23,7 @@ This project is a responsive website designed to help students explore opportuni
    Open the index.html file in your browser to view the project locally.
 
 Live Demo
------View Live Demo
+https://mauryasuraj3360.github.io/mbbs-abroad-project/
 
 Technologies Used
 HTML5: For structuring the website.
@@ -36,5 +36,5 @@ JavaScript: For mobile menu functionality.
 
 Author
 SURAJ KUMAR MAURYA
-GitHub: your-username
+GitHub: mauryasuraj3360
 Email:itschoolsuraj2005@gmail.com
